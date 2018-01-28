@@ -1,12 +1,13 @@
-# [TO7NETWORK - Technology Network Company](https://startbootstrap.com/template-overviews/creative/)
+# [TO7NETWORK - Technology Network Company]
 
-[Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[TO7NETWORK] is a subsidiary company which operates as a separate and distinct corporation
+        from its parent company Djibouti Telecom.
 
 ## Preview
 
-[![Creative Preview](https://startbootstrap.com/assets/img/templates/creative.jpg)](https://blackrockdigital.github.io/startbootstrap-creative/)
+[![TO7NETWORK Preview](https://Abokor-AJ.github.io/New_TO7Network/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-creative/)**
+**[View Live Preview](https://Abokor-AJ.github.io/New_TO7Network/)**
 
 ## Status
 
